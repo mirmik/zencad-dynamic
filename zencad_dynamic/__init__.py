@@ -1,0 +1,1 @@
+from zencad_dynamic.inertia import inertia
